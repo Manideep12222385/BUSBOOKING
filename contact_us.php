@@ -2,7 +2,11 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
+<<<<<<< HEAD
     <title>Maheswari Travels</title>
+=======
+    <title>Maheshwari Travels</title>
+>>>>>>> 6ce42a47c337adccd1553c4e335bd5a54bf11c7b
     <link rel="stylesheet" href="cssfile/nav.css">
     <link rel="stylesheet" href="cssfile/footer_l.css">
      <link rel="stylesheet" href="cssfile/contact_us.css">
